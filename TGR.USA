@@ -8,8 +8,8 @@
   "AdsController": {
       
 
-    "BannerNetwork"           : "ironSource",
-    "InterstitialNetwork"     : "ironSource",
+    "BannerNetwork"           : "yandex",
+    "InterstitialNetwork"     : "yandex",
     "NativeNetwork"           : "yandex",
     
     "IntervalClick"           : 1,
