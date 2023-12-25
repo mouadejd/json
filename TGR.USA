@@ -26,9 +26,9 @@
     "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
     "Applovin_Native"         : "76af75d288a7ada9",
         
-    "YandexBanner"            : "demo-banner-yandex",
-    "YandexInterstitialAd"    : "demo-interstitial-yandex",
-    "YandexNative"            : "demo-native-app-yandex",
+    "YandexBanner"            : "R-M-4693096-1",
+    "YandexInterstitialAd"    : "R-M-4693096-3",
+    "YandexNative"            : "R-M-4693096-2",
 
     "Unity_GameID"            : "4076500",
     "Unity_Banner"            : "BannerAd",
