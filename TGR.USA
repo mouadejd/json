@@ -8,8 +8,8 @@
   "AdsController": {
       
 
-    "BannerNetwork"           : "facebook",
-    "InterstitialNetwork"     : "admob",
+    "BannerNetwork"           : "ironSource",
+    "InterstitialNetwork"     : "ironSource",
     "NativeNetwork"           : "yandex",
     
     "IntervalClick"           : 1,
@@ -34,7 +34,7 @@
     "Unity_Banner"            : "BannerAd",
     "Unity_InterstitialAd"    : "InterstitialAd",
 
-    "IronSourceKey"           : "1197d7c85",
+    "IronSourceKey"           : "109206141",
     
     "PrivacyUrl"              : "https://tgrprivapolicy.blogspot.com/2023/12/privacy-policy.html",
     "OnesignalKey"            : ""
