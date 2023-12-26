@@ -8,7 +8,7 @@
   "AdsController": {
       
 
-    "BannerNetwork"           : "ironSource",
+    "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "yandex",
     "NativeNetwork"           : "yandex",
     
