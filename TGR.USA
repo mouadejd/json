@@ -8,9 +8,9 @@
   "AdsController": {
       
 
-    "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
-    "NativeNetwork"           : "admob",
+    "BannerNetwork"           : "Facebook",
+    "InterstitialNetwork"     : "Facebook",
+    "NativeNetwork"           : "Facebook",
     
     "IntervalClick"           : 4,
     
