@@ -12,7 +12,7 @@
     "InterstitialNetwork"     : "admob",
     "NativeNetwork"           : "admob",
     
-    "IntervalClick"           : 2,
+    "IntervalClick"           : 4,
     
     "AdMob_Banner"            : "ca-app-pub-1594246590868558/4339203246",
     "AdMob_InterstitialAd"    : "ca-app-pub-1594246590868558/8353990942",
